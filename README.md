@@ -5,9 +5,8 @@ Hi 👋 My name is Vanshul Dahiya
 ------------------------------------
 
 I've been learning to code since last year. I've experience in native android app development using kotlin as well as cross platform development using flutter. Now trying my hands on web dev technologies. Keenly interested in JS and going for node js to master backend development.
-
-*   🌍  I'm based in Bahadurgarh , Haryana
 <!-- *   🖥️  See my portfolio at [https://vanshul-dahiya.github.io/cv/](http://vanshul-dahiya.github.io/cv/) -->
+*   🌍  I'm based in Bahadurgarh , Haryana
 *   ✉️  You can contact me at [vanshuldahiya2002@gmail.com](mailto:vanshuldahiya2002@gmail.com)
 *   🧠  I'm learning Fullstack Web development
 *   ⚡  Interested in open source contribution### Skills 
