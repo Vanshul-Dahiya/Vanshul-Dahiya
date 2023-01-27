@@ -9,7 +9,9 @@ I've been learning to code since last year. I've experience in native android ap
 *   🌍  I'm based in Bahadurgarh , Haryana
 *   ✉️  You can contact me at [vanshuldahiya2002@gmail.com](mailto:vanshuldahiya2002@gmail.com)
 *   🧠  I'm learning Fullstack Web development
-*   ⚡  Interested in open source contribution### Skills 
+*   ⚡  Interested in open source contribution
+
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
