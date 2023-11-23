@@ -1,14 +1,17 @@
-Hi 👋 My name is Vanshul Dahiya
-===============================
+<h1 align="center" > Hi 👋 I'm  Vanshul Dahiya </h1>
 
-3rd year CSE student , Web Developer
-------------------------------------
 
-I've been learning to code since last year. I've experience in native android app development using kotlin as well as cross platform development using flutter. Now trying my hands on web dev technologies. Keenly interested in JS and going for node js to master backend development.
+<h3 algin="center"> Final year CSE student, Web Developer </h3>
+
+
+I've been learning to code for the past 2 years. I've experience in native Android app development using Kotlin as well as cross-platform development using Flutter. Now trying my hands on web dev technologies. Keenly interested in JS and devops now.
+
+# About ME :
+*   🔭  I’m currently working on **MERN Stack**
+*   🌱  I’m currently learning **NextJS** & **Devops**
 *   🖥️  See my portfolio [Here](https://portfolio-delta-orpin-20.vercel.app)
-*   🌍  I'm based in Bahadurgarh , Haryana
+*   🌍  I'm based in Bahadurgarh, Haryana
 *   ✉️  You can contact me at [vanshuldahiya2002@gmail.com](mailto:vanshuldahiya2002@gmail.com)
-*   🧠  I'm learning Fullstack Web development
 *   ⚡  Interested in open source contribution
 
 ### Skills 
@@ -44,9 +47,13 @@ I've been learning to code since last year. I've experience in native android ap
                            <a href="https://www.stackoverflow.com/users/17905486/vanshul-dahiya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 ### Badges
 <b>My GitHub Stats</b>
+# 📊GitHub Stats :
+![Vanshul Dahiya's github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Vanshul-Dahiya&theme=calm&hide_border=false&include_all_commits=true&count_private=true)
+![Vanshul Dahiya's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Vanshul-Dahiya&theme=calm&hide_border=false)
+![Vanshul Dahiya's most used languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Vanshul-Dahiya&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="http://www.github.com/Vanshul-Dahiya"><img src="https://github-readme-stats.vercel.app/api?username=Vanshul-Dahiya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vanshul-Dahiya's GitHub stats" /></a>
+## Github Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vanshul-Dahiya&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
-<a href="http://www.github.com/Vanshul-Dahiya"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshul-Dahiya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/Vanshul-Dahiya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vanshul-Dahiya&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/Vanshul-Dahiya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshul-Dahiya&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## Holopin Badges
+[![An image of @vanshuldahiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshuldahiya)](https://holopin.io/@vanshuldahiya)
