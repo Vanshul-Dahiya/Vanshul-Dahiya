@@ -1,5 +1,9 @@
 <h1 align="center" > Hi 👋 I'm  Vanshul Dahiya </h1>
 
+<div align="center"> 
+<img align="center" height="200" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="clock" width="250">
+</div>
+
 
 <h3 algin="center"> Final year CSE student, Web Developer </h3>
 
@@ -26,8 +30,7 @@ I've been learning to code for the past 2 years. I've experience in native Andro
                            <a href="https://www.linkedin.com/in/vanshul-dahiya-487a77214/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                            <a href="http://www.medium.com/@vanshuldahiya2002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
                            <a href="https://www.stackoverflow.com/users/17905486/vanshul-dahiya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
-### Badges
-<b>My GitHub Stats</b>
+
 # 📊GitHub Stats :
 ![Vanshul Dahiya's github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Vanshul-Dahiya&theme=calm&hide_border=false&include_all_commits=true&count_private=true)
 ![Vanshul Dahiya's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Vanshul-Dahiya&theme=calm&hide_border=false)
